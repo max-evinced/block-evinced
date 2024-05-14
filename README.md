@@ -21,3 +21,5 @@ INFO      May 14 12:43:22.967 [24517]: Starting main loop. Accepting connections
 ```
 
 
+### License(s)
+[tinyproxy](https://github.com/tinyproxy/tinyproxy.github.io/blob/master/LICENSE)
