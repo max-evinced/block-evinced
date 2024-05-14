@@ -1,0 +1,3 @@
+# Tinyproxy filter file
+# filter anything that ends in evinced.com
+evinced\.com$
