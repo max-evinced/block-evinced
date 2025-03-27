@@ -3,6 +3,10 @@ tinyproxy homebrew setup: https://formulae.brew.sh/formula/tinyproxy
 
 man pages & setup: https://tinyproxy.github.io
 
+# Usage
+`tinyproxy -d -c tinyproxy.conf`
+
+
 ## Example
 Using the conf file and filter.txt provided.
 ```
